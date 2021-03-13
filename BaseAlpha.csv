@@ -1,0 +1,129 @@
+Mujer,Compra,0.882037347,0.542229379,0.028315941,0.961185747,Laptop,Microfono,Tenis,Bocina Inteligente
+Hombre,Otro,0.39512409,0.577288895,0.693174043,0.198905809,PC,GPS,GPS,Memoria Ram
+Mujer,Compra,0.719404182,0.394638364,0.110402865,0.721164822,Memoria HDD,Compra de Maquinaria,Videocamara,Tarjeta Grafica
+Mujer,Decision,0.844031938,0.836815191,0.499676897,0.404962808,Bocina,PC,Celular,Tarjeta Grafica
+Hombre,Otro,0.360205212,0.104898727,0.083826725,0.365387799,Camara,Tenis,Bocina Inteligente,Microfono
+Hombre,Otro,0.71196911,0.090216105,0.435067838,0.343285364,Renta,Casa,Ropa,Compra de Maquinaria
+Hombre,Decision,0.728971721,0.567509089,0.749601722,0.255415614,GPS,Coleccionables,Memoria SSD,Bocina
+Mujer,Otro,0.409005709,0.60457632,0.269797744,0.667857395,Monitor,Memoria HDD,Videocamara,Casa
+Hombre,Compra,0.283046652,0.599544198,0.933844517,0.055999279,Celular,Laptop,Tenis,Consola
+Hombre,Decision,0.852122342,0.441088844,0.673917168,0.061947565,Tarjeta Grafica,Television,Educacion,Microfono
+Mujer,Decision,0.626551528,0.707672706,0.857970946,0.015008571,Television,Tenis,Inversion,Bocina Inteligente
+Hombre,Otro,0.524590043,0.778160528,0.877883302,0.402327103,Consola,Compra de Maquinaria,Automovil,Estereo
+Mujer,Decision,0.930743057,0.616150365,0.368906054,0.070572025,Automovil,Camara,Audifonos,Coleccionables
+Hombre,Decision,0.64223421,0.324115872,0.00334665,0.297701953,Juguetes,Memoria SSD,Bocina,Monitor
+Mujer,Compra,0.76214049,0.18253499,0.475270093,0.249051165,Coleccionables,Consola,Celular,Robot
+Hombre,Otro,0.934488763,0.968958205,0.240502936,0.536832182,Juguetes,Camara,Memoria SSD,Celular
+Mujer,Otro,0.838057061,0.314193894,0.159368181,0.518054056,Memoria Ram,PC,Robot,GPS
+Mujer,Decision,0.796196366,0.09953518,0.54681376,0.481114493,Bocina,PC,Laptop,GPS
+Mujer,Otro,0.288324705,0.627188422,0.716401429,0.155051767,Educacion,Memoria HDD,Coleccionables,Laptop
+Mujer,Compra,0.749006301,0.085296444,0.842104112,0.769841573,Memoria HDD,Consola,Automovil,Videocamara
+Hombre,Compra,0.999408651,0.411069611,0.251552977,0.848946164,Memoria SSD,Bocina,Consola,Memoria Ram
+Mujer,Otro,0.810636347,0.87574235,0.990721789,0.54026851,Tenis,Compra de Maquinaria,Estereo,Laptop
+Mujer,Otro,0.882944611,0.370120495,0.106282593,0.434284717,Memoria SSD,Bocina,Automovil,Camara
+Mujer,Compra,0.137636703,0.570868459,0.559554743,0.093958825,Memoria Ram,Tarjeta Grafica,Celular,Casa
+Mujer,Otro,0.704101098,0.028047825,0.789708477,0.050561555,Audifonos,Camara,Coleccionables,Bocina
+Hombre,Decision,0.612111432,0.785526203,0.240462654,0.964744188,Bocina Inteligente,Camara,Memoria Ram,Celular
+Mujer,Compra,0.302072474,0.969847727,0.517018716,0.296283786,Inversion,Memoria SSD,Coleccionables,Microfono
+Hombre,Decision,0.542039484,0.264938875,0.520792177,0.499651713,Casa,Celular,Memoria SSD,Coleccionables
+Mujer,Decision,0.958708311,0.567477128,0.189360963,0.834646494,Videocamara,Automovil,Automovil,Coleccionables
+Hombre,Compra,0.951254509,0.56452707,0.82647238,0.499857376,Camara,Celular,Inversion,Coleccionables
+Mujer,Otro,0.526116031,0.403663424,0.042941418,0.657980855,Estereo,Compra de Maquinaria,Audifonos,Memoria Ram
+Mujer,Decision,0.303696059,0.719471177,0.32376558,0.862955938,Inversion,Bocina Inteligente,Bocina,Bocina Inteligente
+Hombre,Otro,0.869390315,0.79233619,0.705318581,0.851139788,Bocina,Television,Audifonos,Casa
+Mujer,Otro,0.382961252,0.172009806,0.780083543,0.593616579,Laptop,PC,Bocina,Casa
+Mujer,Decision,0.608236952,0.18000389,0.173666964,0.060772045,Consola,Ropa,Audifonos,Camara
+Hombre,Compra,0.389768693,0.324966442,0.060298152,0.152982708,Monitor,Juguetes,Celular,Camara
+Hombre,Compra,0.300424214,0.103286416,0.919215407,0.36562167,Casa,Robot,Coleccionables,Automovil
+Hombre,Decision,0.995478843,0.326505016,0.099173114,0.990061433,Videocamara,PC,GPS,Estereo
+Mujer,Decision,0.121606301,0.07260886,0.088926642,0.548265687,Robot,Ropa,Estereo,Inversion
+Hombre,Decision,0.98793541,0.134255529,0.249371721,0.146814193,GPS,Bocina,Television,Coleccionables
+Hombre,Compra,0.363238294,0.266740908,0.543568289,0.068709535,Monitor,Inversion,Laptop,Television
+Mujer,Otro,0.196036699,0.445343179,0.060038725,0.33193952,Casa,Television,Estereo,Inversion
+Mujer,Decision,0.56158011,0.644226542,0.698397748,0.772037014,Automovil,Consola,Audifonos,Microfono
+Mujer,Decision,0.947884975,0.083066957,0.442356121,0.552235079,Juguetes,Bocina Inteligente,Memoria SSD,Monitor
+Hombre,Otro,0.298020976,0.365681376,0.041974121,0.179066207,Audifonos,Casa,Juguetes,Bocina
+Hombre,Otro,0.506581756,0.646092364,0.839502022,0.088651769,Ropa,PC,Tarjeta Grafica,Estereo
+Hombre,Otro,0.39134288,0.040920853,0.421200461,0.733692507,Camara,GPS,Consola,Camara
+Mujer,Decision,0.553028893,0.690640783,0.598396232,0.34296513,PC,Casa,Consola,Videocamara
+Hombre,Otro,0.633952144,0.795209579,0.602325083,0.507734653,Automovil,Ropa,Videocamara,Celular
+Hombre,Decision,0.503009759,0.30104957,0.00732017,0.516844168,Bocina,Tarjeta Grafica,Automovil,Monitor
+Mujer,Compra,0.228138266,0.993088005,0.714999301,0.931233435,Inversion,Bocina,Television,Memoria Ram
+Hombre,Otro,0.184681547,0.58221791,0.010837519,0.323620254,Estereo,PC,Videocamara,Audifonos
+Hombre,Compra,0.876052415,0.320838494,0.692059556,0.423462394,Juguetes,Camara,Ropa,GPS
+Mujer,Decision,0.732655406,0.604409217,0.461700672,0.933431076,GPS,Bocina Inteligente,Microfono,Monitor
+Mujer,Compra,0.375984602,0.008332697,0.29431506,0.700087237,Estereo,Memoria Ram,Camara,Educacion
+Hombre,Otro,0.360241054,0.864839937,0.634321053,0.10931217,Bocina Inteligente,Automovil,Estereo,Casa
+Hombre,Compra,0.407033605,0.264438512,0.743611088,0.228331945,Ropa,Microfono,Tenis,Compra de Maquinaria
+Mujer,Decision,0.487597557,0.211053725,0.263767109,0.955484941,Renta,Casa,Memoria HDD,Juguetes
+Mujer,Otro,0.674054275,0.782377949,0.119250058,0.500627792,Juguetes,Videocamara,Tenis,Coleccionables
+Mujer,Decision,0.706880173,0.947866285,0.240033372,0.742525306,Inversion,Laptop,PC,Memoria SSD
+Hombre,Otro,0.133284733,0.558586694,0.459107236,0.829368319,Consola,Monitor,Estereo,Consola
+Mujer,Otro,0.165320815,0.701311618,0.179190208,0.335675452,Ropa,PC,Bocina Inteligente,Ropa
+Hombre,Decision,0.772426948,0.256232554,0.081069111,0.815793761,Memoria SSD,Tarjeta Grafica,GPS,Memoria HDD
+Mujer,Decision,0.972846237,0.664597836,0.733978817,0.548781715,Compra de Maquinaria,Monitor,Bocina,Bocina
+Hombre,Otro,0.515667418,0.362031024,0.678229078,0.771513177,Casa,Estereo,Casa,Memoria HDD
+Hombre,Decision,0.503903997,0.479065149,0.81523774,0.729721335,Television,Automovil,PC,Memoria HDD
+Mujer,Otro,0.100325055,0.540345419,0.205726144,0.760552251,Memoria HDD,Memoria Ram,Consola,Tenis
+Mujer,Decision,0.393807799,0.111348822,0.582258274,0.522912475,Bocina,Microfono,Coleccionables,PC
+Hombre,Compra,0.468563936,0.26140678,0.382512159,0.454288187,Coleccionables,Inversion,Bocina Inteligente,Bocina
+Hombre,Decision,0.635912784,0.098007644,0.544529548,0.781887005,Microfono,Coleccionables,Tarjeta Grafica,Tarjeta Grafica
+Mujer,Decision,0.312406253,0.357815363,0.831101634,0.263722718,PC,Videocamara,Tarjeta Grafica,Bocina Inteligente
+Hombre,Decision,0.276879369,0.420138854,0.987670769,0.960860568,Microfono,Automovil,Memoria Ram,Microfono
+Mujer,Otro,0.39300779,0.401860975,0.567082682,0.824759651,Memoria Ram,GPS,Bocina,Monitor
+Hombre,Otro,0.34482965,0.146964724,0.868803185,0.969223294,Educacion,Renta,Audifonos,Consola
+Mujer,Decision,0.29601802,0.276941625,0.089462958,0.271485251,Juguetes,Microfono,Coleccionables,Coleccionables
+Hombre,Otro,0.290493467,0.248513643,0.597582232,0.877439193,Ropa,Automovil,Juguetes,Camara
+Hombre,Otro,0.533705086,0.537099775,0.903168815,0.023378135,Celular,Television,Juguetes,GPS
+Hombre,Compra,0.251424597,0.798570035,0.059632907,0.151424205,Consola,Ropa,Coleccionables,Juguetes
+Mujer,Decision,0.38349358,0.704658734,0.230453876,0.476357469,Laptop,Robot,Automovil,Robot
+Mujer,Decision,0.159714356,0.424090459,0.755482525,0.612447796,Microfono,Estereo,PC,Tenis
+Mujer,Otro,0.351696531,0.055211502,0.808328011,0.961953381,Audifonos,Television,Camara,Videocamara
+Mujer,Decision,0.877977352,0.987420563,0.912888083,0.49946404,Juguetes,Audifonos,Coleccionables,Ropa
+Hombre,Decision,0.843052136,0.626304206,0.829024918,0.328060213,Ropa,Renta,Casa,Bocina Inteligente
+Mujer,Decision,0.105510431,0.741054947,0.537980757,0.704550117,GPS,Celular,Renta,Estereo
+Mujer,Decision,0.887089281,0.206465533,0.438951741,0.81794232,Monitor,PC,Compra de Maquinaria,Celular
+Mujer,Decision,0.974562699,0.869183454,0.850498847,0.124493547,Renta,Celular,Automovil,Microfono
+Hombre,Compra,0.232833061,0.990186038,0.121653878,0.660000392,Microfono,Casa,Coleccionables,Casa
+Hombre,Decision,0.633975688,0.84825569,0.106112943,0.490763306,Tenis,Robot,Tenis,Educacion
+Mujer,Compra,0.373054457,0.254196571,0.566409354,0.342048953,GPS,PC,Consola,Laptop
+Hombre,Compra,0.290124419,0.952134402,0.65105578,0.439514654,Juguetes,Monitor,Juguetes,PC
+Hombre,Otro,0.540890155,0.551050549,0.673431074,0.227678671,Celular,Casa,Microfono,Laptop
+Mujer,Compra,0.253904998,0.818383058,0.655067844,0.761275736,Tenis,Automovil,Bocina Inteligente,Casa
+Hombre,Decision,0.269193756,0.504738037,0.310626024,0.407031195,Monitor,Bocina Inteligente,Celular,Monitor
+Mujer,Compra,0.112089178,0.319319325,0.895808966,0.644656921,Tenis,Educacion,Bocina,Laptop
+Hombre,Compra,0.874784538,0.384741975,0.678838348,0.421516879,Audifonos,Television,Ropa,Audifonos
+Mujer,Compra,0.150626041,0.061246577,0.219572546,0.759433868,Inversion,PC,Tarjeta Grafica,Videocamara
+Hombre,Decision,0.661726776,0.269638161,0.138497636,0.655845298,Videocamara,Microfono,PC,Compra de Maquinaria
+Mujer,Otro,0.135326911,0.883015057,0.80430273,0.613363802,Coleccionables,Estereo,Celular,Casa
+Hombre,Decision,0.654181643,0.764002987,0.93040369,0.932357648,GPS,Estereo,GPS,Estereo
+Hombre,Otro,0.538703151,0.943163445,0.011527728,0.587390669,Coleccionables,Casa,Microfono,Monitor
+Mujer,Decision,0.419104823,0.456444923,0.098443542,0.984268475,Bocina,Inversion,Robot,Robot
+Mujer,Otro,0.101224065,0.647698315,0.934525267,0.480903659,Memoria SSD,Casa,Automovil,PC
+Hombre,Decision,0.315910775,0.76287045,0.284806613,0.129812933,Renta,GPS,Bocina Inteligente,Memoria Ram
+Mujer,Decision,0.72822978,0.912067884,0.527390954,0.59125486,Educacion,Casa,Estereo,Coleccionables
+Mujer,Otro,0.457617664,0.021460813,0.770458532,0.749009729,Camara,Television,Automovil,Tenis
+Hombre,Compra,0.862482557,0.592561988,0.364115592,0.018571029,Camara,Memoria Ram,GPS,Microfono
+Mujer,Otro,0.915925155,0.998946505,0.129114394,0.931216803,Memoria Ram,Television,GPS,Camara
+Hombre,Otro,0.408709303,0.958918642,0.679952774,0.904713077,Tarjeta Grafica,Juguetes,Bocina,Tenis
+Mujer,Decision,0.838695899,0.157702697,0.561670162,0.17394836,Educacion,Monitor,Educacion,Juguetes
+Hombre,Decision,0.737700667,0.446726393,0.286939744,0.701128799,Robot,Tarjeta Grafica,Memoria HDD,Microfono
+Mujer,Decision,0.788382078,0.200534878,0.667870956,0.942440153,Robot,Television,Television,Tarjeta Grafica
+Hombre,Decision,0.600820517,0.756656285,0.997307582,0.806603117,Monitor,Educacion,Tarjeta Grafica,Microfono
+Hombre,Compra,0.448436014,0.717471458,0.502581512,0.869753674,Videocamara,Bocina Inteligente,Consola,Robot
+Hombre,Compra,0.936536694,0.198701414,0.987541786,0.810067202,Robot,Coleccionables,Inversion,Estereo
+Hombre,Compra,0.689358723,0.206783474,0.07804437,0.045373057,Memoria SSD,Celular,Bocina,Tarjeta Grafica
+Mujer,Otro,0.521498175,0.348362008,0.942957647,0.12720786,Casa,Camara,Ropa,Memoria SSD
+Mujer,Otro,0.720908578,0.9458415,0.476739004,0.2086522,Memoria SSD,Consola,Coleccionables,Videocamara
+Mujer,Compra,0.970221541,0.967599534,0.076115707,0.878203453,Celular,Consola,Videocamara,Monitor
+Hombre,Compra,0.725756709,0.747382427,0.267283189,0.750888944,Camara,Casa,Memoria SSD,Memoria HDD
+Hombre,Decision,0.539842321,0.207533365,0.023954592,0.84961992,Inversion,Bocina Inteligente,Tenis,PC
+Mujer,Compra,0.329157745,0.025741674,0.528415723,0.378966378,Celular,Celular,Juguetes,Laptop
+Hombre,Compra,0.544947839,0.378960885,0.456039549,0.850426172,Casa,Educacion,Compra de Maquinaria,Videocamara
+Hombre,Compra,0.732893907,0.743166472,0.520832941,0.399381521,Memoria HDD,Educacion,GPS,Compra de Maquinaria
+Mujer,Otro,0.482031865,0.990063201,0.0868044,0.581221034,Memoria SSD,Microfono,Celular,Educacion
+Hombre,Otro,0.607805178,0.499963779,0.643555362,0.14034059,Celular,Inversion,Automovil,Educacion
+Mujer,Compra,0.881502894,0.053562582,0.105241708,0.47142032,Robot,Estereo,Consola,Monitor
+Hombre,Decision,0.730917912,0.676003102,0.509432017,0.493936228,Memoria HDD,Compra de Maquinaria,Educacion,Ropa
+Mujer,Compra,0.849748187,0.164474574,0.935431998,0.028057659,GPS,Laptop,GPS,Renta
+Hombre,Compra,0.29793904,0.766359132,0.375706668,0.613231211,Memoria Ram,Compra de Maquinaria,Casa,Casa
